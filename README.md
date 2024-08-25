@@ -4,7 +4,7 @@ List of all the Indian Universities in one place
 
 ## Features
 - [x] Search for universities
-- [x] Filter universities by state
+- [x] Filter universities by Name
 - [x] View university details
 - [x] Add universities to your favorites list
 - [x] A direct link to the university website
