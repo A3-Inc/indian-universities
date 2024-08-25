@@ -14,3 +14,8 @@ List of all the Indian Universities in one place
     <img style="width: 20%" src="screenshot/1.jpg" alt="Indian Universities" style="float: left; margin-right: 10px;">
     <img style="width: 20%" src="screenshot/2.jpg" alt="Indian Universities" style="float: left; margin-left: 10px;">
 </div>
+
+## Source of Data
+The data is collected from the official website of the All India Survey on Higher Education (AISHE). The data is available in the public domain and can be accessed [here](https://dashboard.aishe.gov.in/hedirectory/#/institutionDirectory/universityDetails/U/ALL).
+
+Data is available in the form of a CSV file. The data is cleaned and converted into JSON format for easy access.
