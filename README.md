@@ -11,6 +11,6 @@ List of all the Indian Universities in one place
 
 ## Screenshots
 <div>
-    <img src="screenshot/1.jpg" alt="Indian Universities" style="float: left; margin-right: 10px;">
-    <img src="screenshot/2.jpg" alt="Indian Universities" style="float: left;">
+    <img style="width: 50%" src="screenshot/1.jpg" alt="Indian Universities" style="float: left; margin-right: 10px;">
+    <img style="width: 50%" src="screenshot/2.jpg" alt="Indian Universities" style="float: left;">
 </div>
