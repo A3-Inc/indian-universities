@@ -1,12 +1,19 @@
 # Indian Universities
-Search and Navigate your career options
-List of all the Indian Universities in one place
+
+<div>
+    <img style="width: 100%" src="screenshot/IndianUni.png" alt="Indian Universities" style="float: left; margin-right: 10px;">
+</div>
+
+<center> Search and Navigate your career options
+List of all the Indian Universities in one place </center>
 
 ## Features
 - [x] Search for universities
-- [x] Filter universities by Name
+- [x] Filter universities by Name, State, and Type
 - [x] View university details
 - [x] Add universities to your favorites list
+- [x] Cloud Sync your favorite universities
+- [x] Navigate your University on Google Maps
 - [x] A direct link to the university website
 
 ## Screenshots
@@ -14,6 +21,7 @@ List of all the Indian Universities in one place
     <img style="width: 20%" src="screenshot/1.jpg" alt="Indian Universities" style="float: left; margin-right: 10px;">
     <img style="width: 20%" src="screenshot/2.jpg" alt="Indian Universities" style="float: left; margin-left: 10px;">
     <img style="width: 20%" src="screenshot/3.jpg" alt="Indian Universities" style="float: left; margin-left: 10px;">
+    <img style="width: 20%" src="screenshot/4.jpg" alt="Indian Universities" style="float: left; margin-left: 10px;">
 </div>
 
 ## Source of Data
